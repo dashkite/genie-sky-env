@@ -34,5 +34,9 @@
     "@dashkite/assert": "^0.1.4",
     "@dashkite/genie": "link:../genie",
     "@dashkite/genie-coffee": "link:../genie-coffee"
+  },
+  "dependencies": {
+    "@dashkite/masonry": "link:../masonry",
+    "cheerio": "1.0.0-rc.12"
   }
 }
